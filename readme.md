@@ -10,4 +10,3 @@ Run
 python data.py
 ```
 And then you can change the code as per your requirement.
-Thank you
